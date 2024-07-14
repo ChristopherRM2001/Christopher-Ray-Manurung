@@ -23,4 +23,5 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/christopher-ray-manurung-6706b9221/)
+-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ray-manurung-6706b9221/)
+
