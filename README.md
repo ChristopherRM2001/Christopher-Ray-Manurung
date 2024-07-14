@@ -22,5 +22,5 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
+
+- [LinkedIn](https://www.linkedin.com/in/christopher-ray-manurung-6706b9221/)
